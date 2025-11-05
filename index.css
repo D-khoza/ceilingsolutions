@@ -131,7 +131,7 @@
     }
 	  .rotating-image
 	  {
-	    max-width: 100vw;
+	    max-width: 65vw;
      
         height: auto;
         animation: spin 7s linear infinite;
@@ -141,4 +141,5 @@
 
 
 }
+
 
